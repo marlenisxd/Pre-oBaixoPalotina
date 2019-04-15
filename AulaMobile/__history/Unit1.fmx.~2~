@@ -29,12 +29,10 @@ object Form1: TForm1
   end
   object MultiView1: TMultiView
     BorderOptions.Color = claWhitesmoke
-    Mode = Drawer
     ClipParent = True
     Size.Width = 193.000000000000000000
     Size.Height = 479.000000000000000000
     Size.PlatformDefault = False
-    Visible = False
     TabOrder = 1
     object Layout1: TLayout
       Align = Client
